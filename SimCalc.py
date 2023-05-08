@@ -12,7 +12,6 @@ Created on Mon May  8 10:43:32 2023
 
 
 import customtkinter as ctk
-import math
 
 currentNumber = 0
 lastNumber = 0
